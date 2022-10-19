@@ -3,7 +3,7 @@
     <div class="col-6 col-sd">
     </div>
     <div class="col-6 col-md">
-      <h5>Navigation</h5>
+      <h5>Navigation bar</h5>
       <ul class="list-unstyled text-small">
         <li><a class="text-muted" href="#">Home</a></li>
         <li><a class="text-muted" href="#">Products</a></li>
